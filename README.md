@@ -9,6 +9,10 @@ This project implements a real-time drone detection system using the YOLOv5 mode
 - **Video Recording**: Records video clips (`drone_alert.mp4`) during detections in the restricted area.
 - **Interactive UI**: Displays bounding boxes, confidence scores, coordinates, and warning messages ("Enemy Drone Detected!!Warning!!Warning!!") on the video feed.
 
+![Drone Detection UI](images/img1.jpg)
+![Alert Message](images/img2.jpg)
+![SMS Notification Alert](images/img3.jpg)
+
 ## Prerequisites
 - **Hardware**:
   - Webcam (default camera, index 0).
