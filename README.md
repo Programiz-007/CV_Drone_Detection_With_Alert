@@ -89,7 +89,7 @@ The script will open a live video feed from the default camera.
 
 - **SMS Issues**:
   - **Error**: `SMS failed: ...` (e.g., "21614: Number not verified").
-  - **Fix**: Verify the recipient number in Twilio Console. Ensure correct phone number format (e.g., `+919825108285`). Check Twilio logs for error codes.
+  - **Fix**: Verify the recipient number in Twilio Console. Ensure correct phone number format. Check Twilio logs for error codes.
   - **Cost**: Trial accounts are free but limited. Upgrade for production use.
 
 - **Model Issues**:
